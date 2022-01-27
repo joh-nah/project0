@@ -53,5 +53,5 @@ anytime i make ANY significant edits to this project & future projects, DO THIS 
 
 git add . (do this command if i've deleted/added any files in my local repo)
 git commit -am'__WRITE NOTES FOR WHAT YOU DID, SHOWS IN GITHUB. SIMILAR TO  //comment IN PROCESSING__'
-git push (adds local files & .git file(hidden thing that tracks changes that i've commited to it) to GitHub)
+git push origin main (adds local files & .git file(hidden thing that tracks changes that i've commited to it) to GitHub)
 
