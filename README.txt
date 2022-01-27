@@ -63,7 +63,7 @@ https://github.com/processing/p5.js/wiki/Local-server
 
   type this into terminal:
 
-  git add . (do this ONLY if you've deleted/added any files in your local repo)
+  git add . (do this ONLY if you've added/deleted any files to your local repo)
 --->
 
 
