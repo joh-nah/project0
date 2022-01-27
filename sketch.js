@@ -1,8 +1,8 @@
 function setup() {
-  // put setup code here
+  createCanvas(1000, 1000);
 }
 
 function draw() {
-  background(255, 0, 0);
-  
+  background(0);
+
 }

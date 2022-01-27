@@ -63,11 +63,18 @@ https://github.com/processing/p5.js/wiki/Local-server
 
   type this into terminal:
 
-  git add . (do this if you've deleted/added any files in your local repo)
+  git add . (do this ONLY if you've deleted/added any files in your local repo)
 --->
+
+
+
+  you're mainly going to use these 2 commands:
 
   git commit -am'xxxxxx' (replace xxxxxx with comments/notes to remind yourself/others of any changes made)
 --->
 
   git push origin main (adds/updates local files & .git file(hidden thing that tracks changes that i've commited) to GitHub)
+--->
+
+
 
